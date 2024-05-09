@@ -1,2 +1,2 @@
 # MiSTeX-bin
-Binary files and bistreams for the MiSTeX project
+Binary files and bitstreams for the MiSTeX project
